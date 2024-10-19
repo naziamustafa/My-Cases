@@ -1,0 +1,1304 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Paaji+2:wght@400..800&display=swap");
+.Heading {
+  position: absolute;
+  right: 47%;
+  text-decoration: overline underline 5px;
+  text-underline-offset: 19px;
+  font-family: "Baloo Paaji 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.case {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 27%;
+  left: 8%;
+}
+
+.case2 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 27%;
+  left: 26%;
+}
+
+.case3 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 27%;
+  left: 44%;
+}
+
+.case4 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 27%;
+  left: 62%;
+}
+
+.case5 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 27%;
+  left: 80%;
+}
+
+.case6 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 77%;
+  left: 8%;
+}
+
+.case7 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 77%;
+  left: 26%;
+}
+
+.case8 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 77%;
+  left: 44%;
+}
+
+.case9 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 77%;
+  left: 62%;
+}
+
+.case10 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 77%;
+  left: 80%;
+}
+
+.case11 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 127%;
+  left: 8%;
+}
+
+.case12 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 127%;
+  left: 26%;
+}
+
+.case13 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 127%;
+  left: 44%;
+}
+
+.case14 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 127%;
+  left: 62%;
+}
+
+.case15 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 127%;
+  left: 80%;
+}
+
+.case16 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 177%;
+  left: 8%;
+}
+
+.case17 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 177%;
+  left: 26%;
+}
+
+.case18 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 177%;
+  left: 44%;
+}
+
+.case19 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 177%; /* Increment top by 50% */
+  left: 62%;
+}
+
+.case20 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 177%;
+  left: 80%;
+}
+
+.case21 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 227%;
+  left: 8%;
+}
+
+.case22 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 227%;
+  left: 26%;
+}
+
+.case23 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 227%;
+  left: 44%;
+}
+
+.case24 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 227%;
+  left: 62%;
+}
+
+.case25 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 227%;
+  left: 80%;
+}
+
+.case26 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 277%;
+  left: 8%;
+}
+
+.case27 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 277%;
+  left: 26%;
+}
+
+.case28 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 277%;
+  left: 44%;
+}
+
+.case29 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 277%;
+  left: 62%;
+}
+
+.case30 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 277%;
+  left: 80%;
+}
+
+.case31 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 327%;
+  left: 8%;
+}
+
+.case32 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 327%;
+  left: 26%;
+}
+
+.case33 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 327%;
+  left: 44%;
+}
+
+.case34 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 327%;
+  left: 62%;
+}
+
+.case35 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 327%;
+  left: 80%;
+}
+
+.case36 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 377%;
+  left: 8%;
+}
+
+.case37 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 377%;
+  left: 26%;
+}
+
+.case38 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 377%;
+  left: 44%;
+}
+
+.case39 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 377%;
+  left: 62%;
+}
+
+.case40 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 377%;
+  left: 80%;
+}
+
+.case41 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 427%;
+  left: 8%;
+}
+
+.case42 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 427%;
+  left: 26%;
+}
+
+.case43 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 427%;
+  left: 44%;
+}
+
+.case44 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 427%;
+  left: 62%;
+}
+
+.case45 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 427%;
+  left: 80%;
+}
+
+.case46 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 477%;
+  left: 8%;
+}
+
+.case47 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 477%;
+  left: 26%;
+}
+
+.case48 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 477%;
+  left: 44%;
+}
+
+.case49 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 477%;
+  left: 62%;
+}
+
+.case50 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 477%;
+  left: 80%;
+}
+
+.case51 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 527%;
+  left: 8%;
+}
+
+.case52 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 527%;
+  left: 26%;
+}
+
+.case53 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 527%;
+  left: 44%;
+}
+
+.case54 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 527%;
+  left: 62%;
+}
+
+.case55 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 527%;
+  left: 80%;
+}
+
+/* Reset left and increment top */
+.case56 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 577%;
+  left: 8%;
+}
+
+.case57 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 577%;
+  left: 26%;
+}
+
+.case58 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 577%;
+  left: 44%;
+}
+
+.case59 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 577%;
+  left: 62%;
+}
+
+.case60 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 577%;
+  left: 80%;
+}
+
+/* Reset left and increment top */
+.case61 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 627%;
+  left: 8%;
+}
+
+.case62 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 627%;
+  left: 26%;
+}
+
+.case63 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 627%;
+  left: 44%;
+}
+
+.case64 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 627%;
+  left: 62%;
+}
+
+.case65 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 627%;
+  left: 80%;
+}
+
+/* Reset left and increment top */
+.case66 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 677%;
+  left: 8%;
+}
+
+.case67 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 677%;
+  left: 26%;
+}
+
+.case68 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 677%;
+  left: 44%;
+}
+
+.case69 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 677%;
+  left: 62%;
+}
+
+.case70 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 677%;
+  left: 80%;
+}
+
+/* Reset left and increment top */
+.case71 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 727%;
+  left: 8%;
+}
+
+.case72 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 727%;
+  left: 26%;
+}
+
+.case73 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 727%;
+  left: 44%;
+}
+
+.case74 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 727%;
+  left: 62%;
+}
+
+.case75 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 727%;
+  left: 80%;
+}
+
+/* Reset left and increment top */
+.case76 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 777%;
+  left: 8%;
+}
+
+.case77 {
+  width: 200px;
+  height: 250px;
+  border-style: solid;
+  position: absolute;
+  top: 777%;
+  left: 26%;
+}
+
+h3 {
+  font-family: "Baloo Paaji 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+  color: black;
+  display: flex;
+  justify-content: end;
+}
+
+.decor {
+  position: absolute;
+  top: 23%;
+  right: 3.8%;
+  width: 1200px;
+  height: 4840px;
+  border-style: dotted;
+}
+
+@media only screen and (max-width: 768px) {
+  .Heading {
+    position: relative;
+    text-align: center;
+    right: 0;
+  }
+
+  .case {
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case2 {
+    position: absolute;
+    top: 55%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case3 {
+    position: absolute;
+    top: 95%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case4 {
+    position: absolute;
+    top: 135%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case5 {
+    position: absolute;
+    top: 175%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case6 {
+    position: absolute;
+    top: 215%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case7 {
+    position: absolute;
+    top: 255%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case8 {
+    position: absolute;
+    top: 295%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case9 {
+    position: absolute;
+    top: 335%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case10 {
+    position: absolute;
+    top: 375%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case11 {
+    position: absolute;
+    top: 415%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case12 {
+    position: absolute;
+    top: 455%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case13 {
+    position: absolute;
+    top: 495%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case14 {
+    position: absolute;
+    top: 535%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case15 {
+    position: absolute;
+    top: 575%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case16 {
+    position: absolute;
+    top: 615%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case17 {
+    position: absolute;
+    top: 655%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case18 {
+    position: absolute;
+    top: 695%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case19 {
+    position: absolute;
+    top: 735%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case20 {
+    position: absolute;
+    top: 775%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case21 {
+    position: absolute;
+    top: 815%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case22 {
+    position: absolute;
+    top: 855%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case23 {
+    position: absolute;
+    top: 895%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case24 {
+    position: absolute;
+    top: 935%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case25 {
+    position: absolute;
+    top: 975%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case26 {
+    position: absolute;
+    top: 1015%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case27 {
+    position: absolute;
+    top: 1055%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case28 {
+    position: absolute;
+    top: 1095%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case29 {
+    position: absolute;
+    top: 1135%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case30 {
+    position: absolute;
+    top: 1175%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case31 {
+    position: absolute;
+    top: 1215%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case32 {
+    position: absolute;
+    top: 1255%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case33 {
+    position: absolute;
+    top: 1295%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case34 {
+    position: absolute;
+    top: 1335%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case35 {
+    position: absolute;
+    top: 1375%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case36 {
+    position: absolute;
+    top: 1415%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case37 {
+    position: absolute;
+    top: 1455%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case38 {
+    position: absolute;
+    top: 1495%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case39 {
+    position: absolute;
+    top: 1535%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case40 {
+    position: absolute;
+    top: 1575%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case41 {
+    position: absolute;
+    top: 1615%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case42 {
+    position: absolute;
+    top: 1655%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case43 {
+    position: absolute;
+    top: 1695%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case44 {
+    position: absolute;
+    top: 1735%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case45 {
+    position: absolute;
+    top: 1775%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case46 {
+    position: absolute;
+    top: 1815%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case47 {
+    position: absolute;
+    top: 1855%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case48 {
+    position: absolute;
+    top: 1895%;
+    left: 30%;
+    height: auto;
+  }
+
+  .case49 {
+    position: absolute;
+    top: 1935%; /* 1895 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case50 {
+    position: absolute;
+    top: 1975%; /* 1935 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case51 {
+    position: absolute;
+    top: 2015%; /* 1975 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case52 {
+    position: absolute;
+    top: 2055%; /* 2015 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case53 {
+    position: absolute;
+    top: 2095%; /* 2055 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case54 {
+    position: absolute;
+    top: 2135%; /* 2095 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case55 {
+    position: absolute;
+    top: 2175%; /* 2135 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case56 {
+    position: absolute;
+    top: 2215%; /* 2175 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case57 {
+    position: absolute;
+    top: 2255%; /* 2215 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case58 {
+    position: absolute;
+    top: 2295%; /* 2255 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case59 {
+    position: absolute;
+    top: 2335%; /* 2295 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case60 {
+    position: absolute;
+    top: 2375%; /* 2335 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case61 {
+    position: absolute;
+    top: 2415%; /* 2375 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case62 {
+    position: absolute;
+    top: 2455%; /* 2415 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case63 {
+    position: absolute;
+    top: 2495%; /* 2455 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case64 {
+    position: absolute;
+    top: 2535%; /* 2495 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case65 {
+    position: absolute;
+    top: 2575%; /* 2535 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case66 {
+    position: absolute;
+    top: 2615%; /* 2575 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case67 {
+    position: absolute;
+    top: 2655%; /* 2615 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case68 {
+    position: absolute;
+    top: 2695%; /* 2655 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case69 {
+    position: absolute;
+    top: 2735%; /* 2695 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case70 {
+    position: absolute;
+    top: 2775%; /* 2735 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case71 {
+    position: absolute;
+    top: 2815%; /* 2775 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case72 {
+    position: absolute;
+    top: 2855%; /* 2815 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case73 {
+    position: absolute;
+    top: 2895%; /* 2855 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case74 {
+    position: absolute;
+    top: 2935%; /* 2895 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case75 {
+    position: absolute;
+    top: 2975%; /* 2935 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case76 {
+    position: absolute;
+    top: 3015%; /* 2975 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .case77 {
+    position: absolute;
+    top: 3055%; /* 3015 + 40 */
+    left: 30%;
+    height: auto;
+  }
+
+  .decor {
+    display: none;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: blueviolet;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #ffffff;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #d6cece;
+}
